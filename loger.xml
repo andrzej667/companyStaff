@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2017-03-01T19:59:13</date>
+  <millis>1488394753001</millis>
+  <sequence>0</sequence>
+  <logger>sdajava.companyStaff.Main</logger>
+  <level>INFO</level>
+  <class>sdajava.companyStaff.controller.UserInput</class>
+  <method>populateWorker</method>
+  <thread>1</thread>
+  <message>Logger Name: sdajava.companyStaff.Main</message>
+</record>
